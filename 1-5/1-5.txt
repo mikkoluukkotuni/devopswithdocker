@@ -1,0 +1,8 @@
+First I started the Ubuntu image, entered it with bash and used:
+
+apt update
+apt upgrade
+apt install curl
+
+to install curl. Then I exited it and kept it running. Then I executed the command seen in 1-5.png
+where I replaced the double quotes in the given command with single quotes and vice versa.
